@@ -2,9 +2,9 @@
 var quotes = [
     {quote:`"Live as if you were to die tomorrow. Learn as if you were to live forever."`,
      author:`- Mahatma Gandhi`}
-     ,{quote:`""Anyone who has never made a mistake has never tried anything new."`
+     ,{quote:`"Anyone who has never made a mistake has never tried anything new."`
     ,author:`- Albert Einstein`},
-    {quote:`Life isn't about finding yourself. Life is about creating yourself."`
+    {quote:`"Life isn't about finding yourself. Life is about creating yourself."`
     ,author:`- George Bernard Shaw`},
     {
         quote:`"Success is not final, failure is not fatal: it is the courage to continue that counts."`
